@@ -1,6 +1,6 @@
 # Notes-App
 Basic notes app which adds, removes, lists and reads notes. 
-#How to run
+# How to run
 To run this app, install nodejs and required dependencies and run:
 1. *node app.js add --title="Title of note" --body="Body of note"* to add a note
 2. *node app.js remove --title="Title of note"* to remove a note
